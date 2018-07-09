@@ -13,3 +13,4 @@ Project in the form of Jupyter notebooks using the following frameworks -
 * SciKit Learn
 * Seaborn
 * Matplotlib
+* LightGBM
