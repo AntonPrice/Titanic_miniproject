@@ -2,15 +2,16 @@
 
 Competition page - https://www.kaggle.com/c/titanic
 
-My development of a submission for the Titanic Survival Classification Kaggle competition.
+Currently this is a store of testing some model theories on a simple binary classification task.  
 
-Currently a WIP project not completed.
+Mostly used as a testing ground to build some simple model types from the ground up.  Some of them worked, some of them did not but all of them gave me some useful insights into things I hadn't had the chance to test.
 
-Project in the form of Jupyter notebooks using the following frameworks - 
+Ideas tested - 
+* Genetic Programming from Scratch
+* Decision Trees from Scratch
+* Gradient Boosting
+* GANs
+* Autoencoders
+* Direct Non-Differentiable Metric Optimization in Tensorflow
 
-* Tensorflow
-* Keras
-* SciKit Learn
-* Seaborn
-* Matplotlib
-* LightGBM
+All codes developed in iPython notebooks with various packages.
